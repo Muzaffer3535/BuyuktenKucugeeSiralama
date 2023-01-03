@@ -1,0 +1,8 @@
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\BüyüktenKücügeSıralama\bin\Debug\BüyüktenKücügeSıralama.exe.config
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\BüyüktenKücügeSıralama\bin\Debug\BüyüktenKücügeSıralama.exe
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\BüyüktenKücügeSıralama\bin\Debug\BüyüktenKücügeSıralama.pdb
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\BüyüktenKücügeSıralama\obj\Debug\BüyüktenKücügeSıralama.csproj.AssemblyReference.cache
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\BüyüktenKücügeSıralama\obj\Debug\BüyüktenKücügeSıralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\BüyüktenKücügeSıralama\obj\Debug\BüyüktenKücügeSıralama.csproj.CoreCompileInputs.cache
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\BüyüktenKücügeSıralama\obj\Debug\BüyüktenKücügeSıralama.exe
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\BüyüktenKücügeSıralama\obj\Debug\BüyüktenKücügeSıralama.pdb
